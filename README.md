@@ -24,12 +24,6 @@ U-APP is a modern Flutter-based mobile application that combines multiple web ap
 - WebView Flutter
 - Android SDK
 
----
-
-## Screenshots
-
-Add your application screenshots here.
-
 ```md
 ![Home Screen](screenshots/home.png)
 ![Dashboard](screenshots/dashboard.png)
