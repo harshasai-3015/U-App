@@ -1,16 +1,22 @@
-# u_app
+U-APP
 
-A new Flutter project.
+Unified Application Platform
 
-## Getting Started
+Overview
 
-This project is a starting point for a Flutter application.
+U-APP is a modern Flutter-based mobile application that combines multiple web applications and services into a single unified platform. The application is designed with a clean UI, smooth navigation, and optimized mobile experience.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Modern and responsive UI
+Integrated multiple web applications
+Custom splash screen and app icon
+Fast WebView support
+Smooth navigation system
+Lightweight and easy to use
+Android support
+Tech Stack
+Flutter
+Dart
+WebView Flutter
+Android SDK
+Screenshots
